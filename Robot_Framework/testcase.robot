@@ -13,7 +13,7 @@ ${Local_DaNang}    .//ul[@class='no-bullet']//button[contains(string(), 'Da Nang
 ${verify_mess_DN}    Hanoi (HAN) - Da Nang (DAD)
 ${Going_to_HCM}    Ho Chi Minh City
 ${Local_HCM}    .//ul[@class='no-bullet']//button[contains(string(), 'Tan Son Nhat')]
-${previous_click}   .//*[@class="uitk-calendar"]/div/button[1]
+${previous_click}   //*[@class='uitk-calendar']/div/button[1]
 ${verify_mess_HCM}    Hanoi (HAN) - Ho Chi... (SGN)
 
 
